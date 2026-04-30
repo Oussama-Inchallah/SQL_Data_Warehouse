@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.env
+*.mdf
+*.ldf
+*.ndf
+*.log
+*.bak
+*.tmp
+.vscode/
+.idea/
